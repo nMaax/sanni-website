@@ -1,0 +1,18 @@
+Basics:
+
+[ ] Color palete, Font, Logos, Ico
+[ ] Define data and elements in navbar (phone number), footer
+[ ] Search for Stock photos
+[ ] Firms line under first section in index
+[ ] Maps section and contacts, work schedule
+[ ] Add catalog page
+[ ] Cookie banner
+
+Options:
+
+[ ] Landing page with half section made of img, not just a card
+[ ] Curves Haiki
+
+Proposes:
+
+[ ] Contact form that sends automatically an email
