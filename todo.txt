@@ -1,6 +1,6 @@
 Basics:
 
-[ ] Color palette, Font, Logos, Ico
+[X] Color palette, Font, Logos, Ico
     - Color palette: https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
     - Font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 [ ] Define data and elements in navbar (phone number), footer
