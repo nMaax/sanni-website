@@ -4,6 +4,7 @@ Basics:
     - Color palette: https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
     - Font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 [ ] Define data and elements in navbar (phone number), footer
+    
 [ ] Search for Stock photos
 [ ] Firms line under first section in index
 [ ] Maps section and contacts, work schedule
