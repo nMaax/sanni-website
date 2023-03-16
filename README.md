@@ -4,7 +4,7 @@ The following site is a modified version of the template [Start Bootstrap - Mode
 
 ## Technologies used
 
-To develop the website where used HTML5, CSS3, JavaScript and Bootstrap5.2; with the help of an HTML template founded on internet by Start Bootstrap
+To develop the website HTML5, CSS3, JavaScript and Bootstrap5.2 where used; with the help of an HTML template founded on internet provided by Start Bootstrap
 
 ## Copyright and License
 
@@ -12,8 +12,7 @@ This modified version is still under MIT Licence to let future developers modify
 
 Copyright ©️ 2023 Massimiliano Carli | Cardinali SRL. Code released under the [MIT](https://mit-license.org/) license.
 
-The following is the original README.md file distribuited by Start Bootstrap ©️ into the original repository of the template.
-
+Following below you can find the original README.md file distribuited by Start Bootstrap ©️ into the original repository of the template.
 ___
 
 [Modern Business](https://startbootstrap.com/template/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
