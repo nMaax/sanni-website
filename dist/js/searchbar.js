@@ -24,16 +24,6 @@ function search() {
             product.classList.add('d-none');
         }
     }
-
-    /*
-    let productName = products[i].getElementsByClassName("fw-bolder")[0].innerText.toLowerCase();
-    let brand = products[i].getElementsByClassName("card-body")[0].getElementsByTagName("p")[0].innerText.toLowerCase();
-
-    if (productName.indexOf(input) > -1 || brand.indexOf(input) > -1) {
-        products[i].style.display = "";
-    } else {
-        products[i].style.display = "none";
-    }*/
 }
 
 document.getElementById("searchbar").addEventListener("input", search);
