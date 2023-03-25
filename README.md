@@ -4,11 +4,15 @@ The following site is a modified version of the template [Start Bootstrap - Mode
 
 ## How to deploy
 
-Just copy the ```dist``` folder wherever you want, that'enough
+Just copy the ```dist``` folder wherever you want, that'enough to deploy the application.
+
+## For future developers
+
+Open the ```future-dev/HOWTO.md``` file, there you will find some useful content to update this website
 
 ## Technologies Used
 
-Sanni website was created using HTML5, CSS3, JavaScript, and Bootstrap 5.1.3; we utilized an HTML template from Start Bootstrap to facilitate the development process. Additionally, the images displayed on the website were created using Canva or sourced from stock photo libraries.
+Sanni website was created using HTML5, CSS3, JavaScript, and Bootstrap 5.1.3; we utilized an HTML template from Start Bootstrap to facilitate the development process. Additionally, the images displayed on the website were created using Canva or sourced from stock photo libraries. You can find the original MIT Licence and README file by Start Bootstrap in the ```template-licence``` folder.
 
 We give all credit to the original authors of the content used on our website.
 
