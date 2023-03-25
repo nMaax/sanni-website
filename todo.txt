@@ -10,7 +10,7 @@ Basics:
 [ ] Solid HTML
 [ ] Legal stuff in the footer, pIVA, ...
 [ ] Images and data of products in catalog.html
-[ ] How to add new product.md
+[X] How to add new product.md
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
 [X] Add catalog page
