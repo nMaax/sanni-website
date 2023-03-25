@@ -8,6 +8,7 @@ Basics:
 [X] Stock photos
 [ ] SEO
 [ ] Ragione sociale, partita iva, etc. nel footer
+[ ] 
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
 [X] Add catalog page

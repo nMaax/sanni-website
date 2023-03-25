@@ -2,6 +2,10 @@
 
 The following site is a modified version of the template [Start Bootstrap - Modern Business](https://startbootstrap.com/template/modern-business/) distribuited by [Start Bootstrap LLC](https://startbootstrap.com/) under [MIT Licence](https://mit-license.org/).
 
+## How to deploy
+
+Just copy the ```dist``` folder wherever you want, that'enough
+
 ## Technologies Used
 
 Sanni website was created using HTML5, CSS3, JavaScript, and Bootstrap 5.1.3; we utilized an HTML template from Start Bootstrap to facilitate the development process. Additionally, the images displayed on the website were created using Canva or sourced from stock photo libraries.
