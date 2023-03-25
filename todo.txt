@@ -7,8 +7,9 @@ Basics:
 
 [X] Stock photos
 [ ] SEO
-[ ] Ragione sociale, partita iva, etc. nel footer
-[ ] 
+[ ] Legal stuff in the footer, pIVA, ...
+[ ] Images and data of products in catalog.html
+[ ] How to add new product.md
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
 [X] Add catalog page
@@ -17,8 +18,8 @@ Basics:
 
 Options:
 
-[ ] Landing page with half section made of img, not just a card
-[ ] Curves Haiki
+? Landing page with half section made of img, not just a card
+? Curves Haiki
 
 ---
 
