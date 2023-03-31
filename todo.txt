@@ -17,9 +17,10 @@ X Pagina servizi offerti
 [X] Define data and elements in navbar (phone number), footer
 
 [X] Stock photos
+[ ] Clean texts around 
 [ ] SEO
-[ ] Solid HTML
-[ ] Legal stuff in the footer, pIVA, ...
+[ ] Solid HTML Validator
+[X] Legal stuff in the footer, pIVA, ...
 [ ] Images and data of products in catalog.html
 [ ] Images in services.html slideshow
 [X] How to add new product.md
