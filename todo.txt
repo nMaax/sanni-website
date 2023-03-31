@@ -1,12 +1,12 @@
 Basics:
 
-- Immagine grande nella landing: Agrofer
+X Immagine grande nella landing: Agrofer
 - tutti i marchi
 	- licenza no responsabilità
 	- pdf come modificare logo
     - colorati
 	
-- Pagina servizi offerti 
+X Pagina servizi offerti 
 		X -> servizi.txt chatgpt
 		X -> slideshow Giardinaggio/ Servizi/ foto		
 
