@@ -1,0 +1,10 @@
+.landing-header {
+    background-position: center center;
+    background-size: cover;
+}
+
+.landing-blob {
+    opacity: 0.5;
+    background-position: center center;
+    background-size: cover;
+}

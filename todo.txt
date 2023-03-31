@@ -4,10 +4,11 @@ Basics:
 - tutti i marchi
 	- licenza no responsabilità
 	- pdf come modificare logo
+    - colorati
 	
 - Pagina servizi offerti 
-		-> servizi.txt chatgpt
-		-> slideshow Giardinaggio/ Servizi/ foto				
+		X -> servizi.txt chatgpt
+		X -> slideshow Giardinaggio/ Servizi/ foto		
 
 
 [X] Color palette, Font, Logos, Ico
@@ -20,6 +21,7 @@ Basics:
 [ ] Solid HTML
 [ ] Legal stuff in the footer, pIVA, ...
 [ ] Images and data of products in catalog.html
+[ ] Images in services.html slideshow
 [X] How to add new product.md
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
