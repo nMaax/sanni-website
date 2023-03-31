@@ -1,5 +1,15 @@
 Basics:
 
+- Immagine grande nella landing: Agrofer
+- tutti i marchi
+	- licenza no responsabilità
+	- pdf come modificare logo
+	
+- Pagina servizi offerti 
+		-> servizi.txt chatgpt
+		-> slideshow Giardinaggio/ Servizi/ foto				
+
+
 [X] Color palette, Font, Logos, Ico
     - Color palette: https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
     - Font: system-ui, -apple-system
