@@ -4,12 +4,7 @@ X Immagine grande nella landing: Agrofer
 - tutti i marchi
 	- licenza no responsabilità
 	- pdf come modificare logo
-    - colorati
-	
-X Pagina servizi offerti 
-		X -> servizi.txt chatgpt
-		X -> slideshow Giardinaggio/ Servizi/ foto		
-
+    - colorati	
 
 [X] Color palette, Font, Logos, Ico
     - Color palette: https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
@@ -27,12 +22,13 @@ X Pagina servizi offerti
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
 [X] Add catalog page
+[X] Add services page
 [X] Cookie banner
 [X] Licences and Copyright issues
 
 Options:
 
-? Landing page with half section made of img, not just a card
+X Landing page with half section made of img, not just a card
 ? Curves Haiki
 
 ---
