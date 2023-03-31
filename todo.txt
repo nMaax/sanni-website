@@ -12,7 +12,7 @@ X Immagine grande nella landing: Agrofer
 [X] Define data and elements in navbar (phone number), footer
 
 [X] Stock photos
-[ ] Clean texts around 
+[X] Clean texts around 
 [ ] SEO
 [ ] Solid HTML Validator
 [X] Legal stuff in the footer, pIVA, ...
