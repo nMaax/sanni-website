@@ -1,11 +1,5 @@
 Basics:
 
-X Immagine grande nella landing: Agrofer
-- tutti i marchi
-	- licenza no responsabilità
-	- pdf come modificare logo
-    - colorati	
-
 [X] Color palette, Font, Logos, Ico
     - Color palette: https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
     - Font: system-ui, -apple-system
@@ -15,6 +9,9 @@ X Immagine grande nella landing: Agrofer
 [X] Clean texts around 
 [ ] SEO
 [ ] Solid HTML Validator
+[ ] Make brands in the homepage colorful
+[ ] Update Licence with no responsability for brands of sanni
+[ ] Markdown file tutorial to modify brands logos
 [X] Legal stuff in the footer, pIVA, ...
 [X] Images and data of products in catalog.html
 [X] Images in services.html slideshow
