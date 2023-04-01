@@ -16,8 +16,8 @@ X Immagine grande nella landing: Agrofer
 [ ] SEO
 [ ] Solid HTML Validator
 [X] Legal stuff in the footer, pIVA, ...
-[ ] Images and data of products in catalog.html
-[ ] Images in services.html slideshow
+[X] Images and data of products in catalog.html
+[X] Images in services.html slideshow
 [X] How to add new product.md
 [X] Firms line under first section in index
 [X] Maps section and contacts, work schedule
