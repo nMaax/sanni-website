@@ -12,6 +12,7 @@ Basics:
 [ ] Make brands in the homepage colorful
 [ ] Update Licence with no responsability for brands of sanni
 [ ] Markdown file tutorial to modify brands logos
+[ ] Update responsiveness
 [X] Legal stuff in the footer, pIVA, ...
 [X] Images and data of products in catalog.html
 [X] Images in services.html slideshow
