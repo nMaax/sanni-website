@@ -13,6 +13,8 @@ Basics:
 [ ] Update Licence with no responsability for brands of sanni
 [ ] Markdown file tutorial to modify brands logos
 [ ] Update responsiveness
+[ ] Slideshow Noleggio
+[ ] New page Agricolture e Giardinaggio based on Sanni content
 [X] Legal stuff in the footer, pIVA, ...
 [X] Images and data of products in catalog.html
 [X] Images in services.html slideshow
