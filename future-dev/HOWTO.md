@@ -17,7 +17,7 @@ The website consists of the following pages:
 
     Home
     About (Containing both history of the company and contat info)
-    Catalgo
+    Catalog
     Terms
 
 Each page has its own HTML file located in the ```dist/``` directory.
