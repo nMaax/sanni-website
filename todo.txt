@@ -10,8 +10,8 @@
 - [ ] Autogenerate an xml sitemap and implement HTTPS
 - [X] Solid HTML Validator
 - [ ] Make brands in the homepage colorful
-- [ ] Update responsiveness
-- [ ] Rimuovi/Risolvi commenti e TODO
+- [X] Update responsiveness
+- [X] Rimuovi/Risolvi commenti e TODO
 - [X] Slideshow Noleggio
 - [X] Slideshow rental
 - [X] Legal stuff in the footer, pIVA, ...
