@@ -7,9 +7,7 @@
 - [X] Stock photos
 - [X] Clean texts around 
 - [X] SEO
-- [ ] Autogenerate an xml sitemap and implement HTTPS
 - [X] Solid HTML Validator
-- [ ] Make brands in the homepage colorful
 - [X] Update responsiveness
 - [X] Rimuovi/Risolvi commenti e TODO
 - [X] Slideshow Noleggio
@@ -22,11 +20,16 @@
 - [X] Maps section and contacts, work schedule
 - [X] Add catalog page
 - [X] Add services page
+- [ ] Make brands in the homepage colorful
 - [ ] New page Agricolture e Giardinaggio based on Sanni content
 - [X] Cookie banner
 - [X] Licences and Copyright issues
 - [X] Update Licence with no responsability for brands of sanni
 
+Next steps before release in production
+- [ ] Autogenerate an xml sitemap and implement HTTPS
+- [ ] Fill placeholders and boilerplate stuff with client need
+- [ ] Check SEO again
 ---
 
 ### Slogan homepage
