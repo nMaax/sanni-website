@@ -30,6 +30,7 @@ Next steps before release in production
 - [ ] Autogenerate an xml sitemap and implement HTTPS
 - [ ] Fill placeholders and boilerplate stuff with client need
 - [ ] Check SEO again
+
 ---
 
 ### Slogan homepage
