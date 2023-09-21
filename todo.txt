@@ -31,29 +31,8 @@
 - [X] Nuovi loghi, tutti (4a mail)
 - [X] Header homepage GILL SANS MT rosso
 
-Next steps before release in production
-- [ ] Autogenerate an xml sitemap and implement HTTPS
-- [ ] Remove HTML comments
-- [ ] Rileggi licenza
-
----
-
-### Slogan homepage
-
-Slogan opzione 1:
-"Passione, esperienza e competenza al servizio dei nostri clienti. Sanni srl, il tuo partner affidabile per attrezzature agricole, da giardino ed enologia."
-
-Slogan opzione 2:
-"La tua soddisfazione è la nostra priorità. Sanni srl, la scelta giusta per l'acquisto, noleggio e assistenza di attrezzature agricole e da giardino."
-
-Slogan opzione 3:
-"Sanni srl, la tua soluzione completa per l'enologia. Dalla vendita di attrezzature all'assistenza tecnica, affidati alla nostra esperienza."
-
-Slogan opzione 4: 
-"Da oltre 50 anni la passione per l'attrezzatura agricola ci guida. Sanni srl, il tuo partner affidabile per attrezzature agricole, da giardino ed enologia."
-
-Slogan opzione 5: 
-"Dal 1970 la nostra passione è al tuo servizio. Sanni srl, la scelta giusta per l'acquisto, noleggio e assistenza di attrezzature agricole e da giardino."
-
-Slogan opzione 6: 
-"Dal 1970 l'eccellenza nel settore dell'enologia. Sanni srl, la tua soluzione completa per l'acquisto, la manutenzione e l'assistenza delle attrezzature per la produzione del vino."
+Next steps before releasing in production
+- [ ] Autogenerate an [xml sitemap](https://www.xml-sitemaps.com/)
+- [ ] Implement HTTPS
+- [X] Remove HTML comments
+- [X] Rileggi licenza

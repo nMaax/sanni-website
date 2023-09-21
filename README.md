@@ -22,6 +22,6 @@ At Sanni SRL, we value the privacy of their users and we do not implement any tr
 
 ## Copyright and License
 
-This website is released under a specif licence you can find in the LICENCE file, only Cardinali SRL is free to have full control on how to manage, modify or sell the website, other third-parties can use the code for non-commercial use onyl. The original template was developed and distributed by Start Bootstrap LLC under the MIT License, we acknowledge their contribution to the development of our site. The original MIT License and README file can be found in the "template-licence" directory.
+This website is released under a specif licence you can find in the LICENCE file, only Cardinali SRL is free to have full control on how to manage, modify or sell the website, other third-parties can use the code for non-commercial use only. The original template was developed and distributed by Start Bootstrap LLC under the MIT License, we acknowledge their contribution to the development of our site. The original MIT License and README file can be found in the "template-licence" directory.
 
 Copyright ©️ 2023 Massimiliano Carli for Cardinali SRL. Code released under propetary license.
