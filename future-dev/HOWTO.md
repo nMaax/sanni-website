@@ -17,22 +17,24 @@ The website consists of the following pages:
 
     Home
     About (Containing both history of the company and contat info)
-    Catalog
+    Services
+    Rental
+    Brands
     Terms
 
-Each page has its own HTML file located in the ```dist/``` directory.
+Each page has its own HTML file located in the `dist/` directory.
 
-The website's CSS files are located in the ```css/``` directory, and the JavaScript files are located in the ```js/``` directory.
+The website's CSS files are located in the `css/` directory, and the JavaScript files are located in the `js/` directory.
 
 ## Content
 
 The content for each page is located in its respective HTML file. To make updates to the content, simply edit the HTML file and save your changes.
 
-The website's images are located in the ```assests/img/``` directory. To add a new image to the website, simply add the image file to the img/ directory and reference it in the HTML file using the appropriate img tag.
+The website's images are located in the `assests/img/` directory. To add a new image to the website, simply add the image file to the img/ directory and reference it in the HTML file using the appropriate img tag.
 
 ## Design
 
-The website's design is controlled by the CSS files located in the ```css/``` directory. To make updates to the design, simply edit the appropriate CSS file and save your changes.
+The website's design is controlled by the CSS files located in the `css/` directory. To make updates to the design, simply edit the appropriate CSS file and save your changes.
 
 The website uses Bootstrap as its CSS framework. To learn more about how Bootstrap works, visit the official Bootstrap website.
 
@@ -40,7 +42,7 @@ The website uses Bootstrap as its CSS framework. To learn more about how Bootstr
 
 ### Adding a New Product or Service
 
-To add a new product, edit the ```dist/catalog.html``` file adding the following code in the appropriate section.
+To add a new product, edit the `dist/rental.html` file adding the following code in the appropriate section.
 
 ```html
 <div class="col mb-5 product">
@@ -64,14 +66,10 @@ To add a new product, edit the ```dist/catalog.html``` file adding the following
 </div>
 ```
 
-The catalog is divided in two sections, one for Agriculture and Enology products, the other for Gardening products. Here is an example on where to put a new Gardening product
+Here is an example on where to put a new Gardening product
 
 ```html
-<div class="row" id="gardening-section-title">
-    <h2 class="section-title fw-bold">Giardinaggio</h2>
-    <hr class="section-line">
-</div>
-<div class="row gx-4 gx-lg-5 row-cols-1 row-cols-md-3 row-cols-xl-4 justify-content-left" id="gardening-section">
+
     <div class="col mb-5 product">
         <div class="card h-100">
             <!-- Product image-->
@@ -94,7 +92,7 @@ The catalog is divided in two sections, one for Agriculture and Enology products
 
     <!-- Other products ... -->
 
-    <!-- YOUR NEW PRODUCT HERE -->
+    <!-- !YOUR NEW PRODUCT HERE -->
     <div class="col mb-5 product">
         <div class="card h-100">
             <!-- Product image-->
@@ -121,11 +119,11 @@ The catalog is divided in two sections, one for Agriculture and Enology products
 
 ```
 
-The same goes for Agriculture and Enology product, in their appropriate section.
+You can have the same approach if you want to introduce new brands in `brands.html`
 
 ### Updating Contact Information
 
-To update the contact information, edit the ```dist/about.html``` file and the ```terms.html``` file and make changes to the appropriate tags.
+To update the contact information, edit the `dist/about.html` file and the `terms.html` file and make changes to the appropriate tags.
 
 ## Useful prompt for AI assistance (_in italian_)
 
@@ -178,7 +176,3 @@ tubi per travaso
 Se hai capito tutto rispondi con "Si Massimiliano, vediamo di fare il miglior sito che Sanni potrebbe mai immaginare!"
 
 ```
-
-## Conclusion
-
-This guide should provide enough information to help future developers make updates to the Sanni website. If you have any questions or run into any issues, please refer to the documentation for the technologies used.

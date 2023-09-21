@@ -20,16 +20,21 @@
 - [X] Maps section and contacts, work schedule
 - [X] Add catalog page
 - [X] Add services page
-- [ ] Make brands in the homepage colorful
-- [ ] New page Agricolture e Giardinaggio based on Sanni content
+- [-] New page Agricolture e Giardinaggio based on Sanni content
 - [X] Cookie banner
 - [X] Licences and Copyright issues
 - [X] Update Licence with no responsability for brands of sanni
+- [X] Aggiungi due foto in servizi (1a mail)
+- [X] Aggiungi due foto nuove nel noleggio (2a mail)
+- [X] Nuova foto Fondazione Sanni in about (3a mail)
+- [X] Rimuovi/Aggiungi prodotti catalogo (4a mail)
+- [X] Nuovi loghi, tutti (4a mail)
+- [X] Header homepage GILL SANS MT rosso
 
 Next steps before release in production
 - [ ] Autogenerate an xml sitemap and implement HTTPS
-- [ ] Fill placeholders and boilerplate stuff with client need
-- [ ] Check SEO again
+- [ ] Remove HTML comments
+- [ ] Rileggi licenza
 
 ---
 

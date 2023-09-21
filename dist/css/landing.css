@@ -1,3 +1,9 @@
+h1 {
+    font-family: 'Gill Sans MT', system-ui, -apple-system, sans-serif;
+    color: var(--my-red-100);
+    /*text-shadow: 1px 1px 1px white;*/
+}
+
 .landing-header {
     background-position: center center;
     background-size: cover;
